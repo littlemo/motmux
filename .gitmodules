@@ -1,3 +1,6 @@
 [submodule ".tmux"]
 	path = .tmux
 	url = ../../gpakosz/.tmux.git
+[submodule ".tmux.custom/plugins/tpm"]
+	path = .tmux.custom/plugins/tpm
+	url = ../../tmux-plugins/tpm.git
