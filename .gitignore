@@ -1,0 +1,5 @@
+# 插件路径
+.tmux.custom/plugins
+
+# 插件运行时缓存路径
+.tmux.custom/resurrect/
