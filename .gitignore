@@ -1,5 +1,5 @@
 # 插件路径
-.tmux.custom/plugins
+motmux_conf/plugins
 
 # 插件运行时缓存路径
-.tmux.custom/resurrect/
+motmux_conf/resurrect/

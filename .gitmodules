@@ -1,6 +1,6 @@
-[submodule ".tmux"]
-	path = .tmux
+[submodule "oh-my-tmux-conf"]
+	path = oh-my-tmux-conf
 	url = ../../gpakosz/.tmux.git
-[submodule ".tmux.custom/plugins/tpm"]
-	path = .tmux.custom/plugins/tpm
+[submodule "motmux_conf/plugins/tpm"]
+	path = motmux_conf/plugins/tpm
 	url = ../../tmux-plugins/tpm.git
